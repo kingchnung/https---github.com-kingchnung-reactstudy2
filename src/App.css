@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,36 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+body {
+
+  padding: 20px;
+
+}
+
+​
+
+.App {
+
+  margin: 0 auto;
+
+  width: 500px;
+
+}
+
+​
+
+.App > section {
+
+  padding: 20px;
+
+  background-color: rgb(245, 245, 245);
+
+  border: 1px solid rgb(240, 240, 240);
+
+  border-radius: 5px;
+
+  margin-bottom: 10px;
+
 }
