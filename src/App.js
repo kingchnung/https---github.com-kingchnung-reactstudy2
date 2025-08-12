@@ -1,13 +1,13 @@
-import './App.css';
 
-import ItemList from './product/ItemList';
+
+import ItemMain from './product/ItemMain';
 
 const App = () => {
   
   return (
 
     <div className="App">
-        <ItemList />
+        <ItemMain />
     </div>
   );
 };
